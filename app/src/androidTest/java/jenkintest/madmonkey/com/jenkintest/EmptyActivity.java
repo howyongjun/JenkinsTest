@@ -6,4 +6,5 @@ package jenkintest.madmonkey.com.jenkintest;
 public class EmptyActivity
 {
     //test1
+    //test2
 }
